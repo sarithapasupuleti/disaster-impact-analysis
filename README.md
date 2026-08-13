@@ -1,4 +1,4 @@
-# Disaster Impact Analysis
+# Disaster Data PipeLine
 
 ## Project Overview
 
@@ -87,10 +87,9 @@ Matplotlib was used to create charts for:
 
 ## Project Files
 
-```text
-disaster-impact-analysis/
-├── Disaster_Impact_Analysis.ipynb
-├── regions.csv
-├── disaster_events.csv
-├── impact_assessment.csv
-└── README.md
+- `data/` – Contains the raw disaster datasets.
+- `notebooks/` – Contains the Jupyter Notebook with data cleaning, processing, SQL analysis, and visualizations.
+- `python/` – Contains the Python scripts used in the project.
+- `sql/` – Contains SQL queries used for data analysis.
+- `README.md` – Project documentation.
+- `requirements.txt` – Python libraries required to run the project.
