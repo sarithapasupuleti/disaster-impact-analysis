@@ -1,7 +1,5 @@
-Python
-Pandas
-MySQL
-SQL
-Matplotlib
-Google Colab
-Jupyter Notebook
+pandas
+numpy
+matplotlib
+seaborn
+mysql-connector-python
